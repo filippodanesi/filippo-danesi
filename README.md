@@ -4,13 +4,13 @@ Welcome to my online CV repository! I am Filippo Danesi, currently working as a 
 
 ## About Me
 
-As a Technical SEO Lead, my role involves search engine optimization, analysis, and enhancement of web channel performance through data analysis. This is aimed at boosting performance and profitability. Additionally, I have a specialization in Web Design and Digital Advertising&#8203;``【oaicite:2】``&#8203;.
+As a Technical SEO Lead, my role involves search engine optimization, analysis, and enhancement of web channel performance through data analysis. This is aimed at boosting performance and profitability. Additionally, I have a specialization in Web Design and Digital Advertising.
 
 ## My Experience
 
-I hold an Executive Master in Web Design from the Modartech Institute and another in E-Commerce Management from the European Institute of Design. Currently, I am pursuing an Executive Master in Data Analytics and Marketing Intelligence at 24ORE Business School and a Master in Global Marketing, Communication & Made in Italy from Centro Studi Comunicare l’Impresa, granted by the Italy USA Foundation&#8203;``【oaicite:1】``&#8203;.
+I hold an Executive Master in Web Design from the Modartech Institute and another in E-Commerce Management from the European Institute of Design. Currently, I am pursuing an Executive Master in Data Analytics and Marketing Intelligence at 24ORE Business School and a Master in Global Marketing, Communication & Made in Italy from Centro Studi Comunicare l’Impresa, granted by the Italy USA Foundation.
 
-Through this site, I aim to share my knowledge and thoughts on SEO, Digital Marketing, and Web Design. I hope you find the content here both useful and interesting&#8203;``【oaicite:0】``&#8203;!
+Through this site, I aim to share my knowledge and thoughts on SEO, Digital Marketing, and Web Design. I hope you find the content here both useful and interesting!
 
 ## Contact
 
