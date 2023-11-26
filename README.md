@@ -14,7 +14,7 @@ Through this site, I aim to share my knowledge and thoughts on SEO, Digital Mark
 
 ## Contact
 
-- **LinkedIn:** [Filippo Danesi LinkedIn](https://www.linkedin.com/in/filippodanesi)
+- [**LinkedIn**](https://www.linkedin.com/in/filippodanesi)
 - **GitHub:** [Filippo Danesi GitHub](https://github.com/filippodanesi)
 - **Website:** [https://www.filippodanesi.it](https://www.filippodanesi.it)
 
