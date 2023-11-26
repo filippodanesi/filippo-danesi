@@ -14,10 +14,10 @@ Through this site, I aim to share my knowledge and thoughts on SEO, Digital Mark
 
 ## Contact
 
-- [**LinkedIn**](https://www.linkedin.com/in/filippodanesi)
-- [**GitHub**](https://github.com/filippodanesi)
-- [**Website**](https://www.filippodanesi.it)
-- [**Here's my blog**](https://www.serp-secrets.com)
+- [LinkedIn](https://www.linkedin.com/in/filippodanesi)
+- [GitHub](https://github.com/filippodanesi)
+- [Website](https://www.filippodanesi.it)
+- [My blog](https://www.serp-secrets.com)
 
 ## Credits
 
