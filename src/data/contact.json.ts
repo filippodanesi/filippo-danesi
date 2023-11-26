@@ -6,16 +6,16 @@ export interface Template {
 const one: Template = {
   link: "mailto:email@example.com",
   type: "Email",
-  title: "michael@andreuzza.com",
+  title: "hello@filippodanesi.it",
 };
 const two: Template = {
-link: "https://twitter.com/Mike_Andreuzza",
-    type: "Twitter",
-  title: "Mike_Andreuzza",
+link: "https://www.linkedin.com/in/filippodanesi/",
+    type: "LinkedIn",
+  title: "filippodanesi",
 };
 const three: Template = {
-link: "https://read.cv/join/michael_andreuzza",
-    type: "Read CV",
+link: "https://www.serp-secrets.com",
+    type: "My Blog",
   title: "michael_andreuzza",
 };
 export const bytype = {
