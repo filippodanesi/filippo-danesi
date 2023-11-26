@@ -16,7 +16,7 @@ link: "https://www.linkedin.com/in/filippodanesi/",
 const three: Template = {
 link: "https://www.serp-secrets.com",
     type: "My Blog",
-  title: "michael_andreuzza",
+  title: "serp-secrets.com",
 };
 export const bytype = {
   one,

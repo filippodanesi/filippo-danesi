@@ -7,60 +7,78 @@ import { contact } from "../../data/contact.json";
   <div class="mx-auto max-w-7xl px-8 py-12">
     <div class="mx-auto max-w-xl">
       <div class="grid gap-12 md:gap-24">
+
+        <!-- Sezione Work Experience -->
         <div class="text-sm font-light">
           <p class="text-black dark:text-white">Work experience</p>
-
           <div class="grid gap-6 mt-3">
             {
-              details.map((template) => (
-                <>
-                  <div class="text-neutral-500  items-start grid grid-cols-1 md:grid-cols-3">
-                    <div>
-                      <p class="text-neutral-400 dark:text-neutral-400">{template.date}</p>
-                    </div>
-                    <div class="md:col-span-2 w-full">
-                      <p class="text-black dark:text-white">
-                        <a
-                          href={template.link}
-                          class="underline hover:no-underline duration-200 after:content-['_↗']">
-                          {template.title}
-                        </a>
-                      </p>
-                      <p class="">{template.location}</p>
-                    </div>
+              details.filter(template => template.type === 'work').map((template) => (
+                <div class="text-neutral-500 items-start grid grid-cols-1 md:grid-cols-3">
+                  <div>
+                    <p class="text-neutral-400 dark:text-neutral-400">{template.date}</p>
                   </div>
-                </>
+                  <div class="md:col-span-2 w-full">
+                    <p class="text-black dark:text-white">
+                      <a href={template.link} class="underline hover:no-underline duration-200 after:content-['_↗']">
+                        {template.title}
+                      </a>
+                    </p>
+                    <p>{template.location}</p>
+                  </div>
+                </div>
               ))
             }
           </div>
         </div>
+
+        <!-- Sezione Education -->
+        <div class="text-sm font-light">
+          <p class="text-black dark:text-white">Education</p>
+          <div class="grid gap-6 mt-3">
+            {
+              details.filter(template => template.type === 'education').map((template) => (
+                <div class="text-neutral-500 items-start grid grid-cols-1 md:grid-cols-3">
+                  <div>
+                    <p class="text-neutral-400 dark:text-neutral-400">{template.date}</p>
+                  </div>
+                  <div class="md:col-span-2 w-full">
+                    <p class="text-black dark:text-white">
+                      <a href={template.link} class="underline hover:no-underline duration-200 after:content-['_↗']">
+                        {template.title}
+                      </a>
+                    </p>
+                    <p>{template.location}</p>
+                  </div>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+
+        <!-- Sezione Contact -->
         <div class="text-sm font-light">
           <p class="text-black dark:text-white">Contact</p>
-
           <div class="grid gap-6 mt-3">
             {
               contact.map((template) => (
-                <>
-                  <div class="text-neutral-500  items-start grid grid-cols-1 md:grid-cols-3">
-                    <div>
-                      <p class="text-neutral-400 dark:text-neutral-400">{template.type}</p>
-                    </div>
-                    <div class="md:col-span-2 w-full">
-                      <p class="text-black dark:text-white">
-                        <a
-                          href={template.link}
-                          title={template.type}
-                          class="underline hover:no-underline duration-200 after:content-['_↗']">
-                          {template.title}
-                        </a>
-                      </p>
-                    </div>
+                <div class="text-neutral-500 items-start grid grid-cols-1 md:grid-cols-3">
+                  <div>
+                    <p class="text-neutral-400 dark:text-neutral-400">{template.type}</p>
                   </div>
-                </>
+                  <div class="md:col-span-2 w-full">
+                    <p class="text-black dark:text-white">
+                      <a href={template.link} title={template.type} class="underline hover:no-underline duration-200 after:content-['_↗']">
+                        {template.title}
+                      </a>
+                    </p>
+                  </div>
+                </div>
               ))
             }
           </div>
         </div>
+
       </div>
     </div>
   </div>
