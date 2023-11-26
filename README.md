@@ -1,42 +1,24 @@
-# Astro & Tailwind CSS Starter Kit
+# Filippo Danesi
 
-## Template Integrations
-- @astrojs/tailwind - https://docs.astro.build/en/guides/integrations-guide/tailwind/
-- @astrojs/sitemap - https://docs.astro.build/en/guides/integrations-guide/sitemap/
-- Astrolib SEO - https://github.com/onwidget/astrolib/tree/main/packages/seo
+Welcome to my online CV repository! I am Filippo Danesi, currently working as a Technical SEO Lead at NUR, a communication agency specialized in Digital Marketing and E-Commerce services.
 
-## Template Structure
+## About Me
 
-Inside of your Astro project, you'll see the following folders and files:
+As a Technical SEO Lead, my role involves search engine optimization, analysis, and enhancement of web channel performance through data analysis. This is aimed at boosting performance and profitability. Additionally, I have a specialization in Web Design and Digital Advertising&#8203;``【oaicite:2】``&#8203;.
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## My Experience
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+I hold an Executive Master in Web Design from the Modartech Institute and another in E-Commerce Management from the European Institute of Design. Currently, I am pursuing an Executive Master in Data Analytics and Marketing Intelligence at 24ORE Business School and a Master in Global Marketing, Communication & Made in Italy from Centro Studi Comunicare l’Impresa, granted by the Italy USA Foundation&#8203;``【oaicite:1】``&#8203;.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Through this site, I aim to share my knowledge and thoughts on SEO, Digital Marketing, and Web Design. I hope you find the content here both useful and interesting&#8203;``【oaicite:0】``&#8203;!
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Contact
 
-## Commands
+- **LinkedIn:** [Filippo Danesi LinkedIn](https://www.linkedin.com/in/filippodanesi)
+- **GitHub:** [Filippo Danesi GitHub](https://github.com/filippodanesi)
+- **Website:** [https://www.filippodanesi.it](https://www.filippodanesi.it)
 
-All commands are run from the root of the project, from a terminal:
+## Credits
 
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+This online CV is created using the Prima Persona theme by Michael Andreuzza. More information about the theme can be found [here](https://lexingtonthemes.com/info/primapersona/).
 
-## Want to learn more?
-
-Feel free to check Astroäs [documentation](https://docs.astro.build)
