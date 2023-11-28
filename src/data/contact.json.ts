@@ -4,7 +4,7 @@ export interface Template {
   title: string;
 };
 const one: Template = {
-  link: "mailto:email@example.com",
+  link: "mailto:hello@filippodanesi.it",
   type: "Email",
   title: "hello@filippodanesi.it",
 };
