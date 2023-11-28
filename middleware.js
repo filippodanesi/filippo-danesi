@@ -35,6 +35,7 @@ export default function middleware(request) {
     "/categoria/aggiornamenti-google/",
     "/categoria/link-building/",
     "/categorie/mobile-seo/",
+    "/categorie/mobile-seo",
     "/categoria/seo-on-page/",
     "/categoria/seo-per-wordpress/",
     "/en/category/mobile-seo/",
