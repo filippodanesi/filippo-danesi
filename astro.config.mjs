@@ -33,8 +33,8 @@ export default defineConfig({
       ],
       sitemap: 'https://www.filippodanesi.it/sitemap-index.xml',
       transform(content) {
-        const lastIndex = content.lastIndexOf('User-agent');
-        return `${content.substring(0, lastIndex)}\n${content.substring(lastIndex)}`;
+        const lastDisallowIndex = content.lastIndexOf('Disallow: /');
+        return `${content.substring(0, lastDisallowIndex)}Disallow: /\n\n${content.substring(lastDisallowIndex + 11)}`;
       },
     }),
   ],
