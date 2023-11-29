@@ -30,7 +30,7 @@ export default defineConfig({
           disallow: '/',
         },
       ],
-      sitemap: false,
+      sitemap: 'https://www.filippodanesi.it/sitemap-index.xml',
     })
   ]
 });
