@@ -89,7 +89,18 @@ module.exports = {
         black:"#222222",
       },
       fontFamily: {
-        sans: ["Inter", ...defaultTheme.fontFamily.sans],
+        sans: [
+          '-apple-system', 
+          'system-ui', 
+          'BlinkMacSystemFont', 
+          'Segoe UI', 
+          'Roboto', 
+          'Helvetica Neue', 
+          'Ubuntu', 
+          'Arial', 
+          'sans-serif', 
+          ...defaultTheme.fontFamily.sans
+        ],
       },
     },
   },
