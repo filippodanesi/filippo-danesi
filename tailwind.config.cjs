@@ -86,26 +86,26 @@ module.exports = {
     },
     extend: {
       colors: {
-        black:"#222222",
+        black: "#222222",
       },
-      fontFamily: {
-        sans: [
-          '-apple-system', 
-          'system-ui', 
-          'BlinkMacSystemFont', 
-          'Segoe UI', 
-          'Roboto', 
-          'Helvetica Neue', 
-          'Ubuntu', 
-          'Arial', 
-          'sans-serif', 
-          ...defaultTheme.fontFamily.sans
-        ],
-      },
+      // fontFamily: {
+      //   sans: [
+      //     '-apple-system', 
+      //     'system-ui', 
+      //     'BlinkMacSystemFont', 
+      //     'Segoe UI', 
+      //     'Roboto', 
+      //     'Helvetica Neue', 
+      //     'Ubuntu', 
+      //     'Arial', 
+      //     'sans-serif', 
+      //     ...defaultTheme.fontFamily.sans
+      //   ],
+      // },
     },
   },
   plugins: [
     require('@tailwindcss/typography'),
-    // ...
+    // ... altri plugin
   ],
 }
