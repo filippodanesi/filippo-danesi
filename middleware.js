@@ -7,7 +7,7 @@ export default function middleware(request) {
     "/en/blog/": "https://www.serp-secrets.com/archive",
     "/en/privacy-policy/": "https://www.serp-secrets.com/privacy-policy",
     "/en/cookie-policy/": "https://www.serp-secrets.com/cookie-policy",
-    "/en/contact-me/": "https://www.serp-secrets.com/about/",
+    "/en/contact-me/": "https://www.filippodanesi.it",
     "/en/about-me/": "https://www.serp-secrets.com/about/",
     "/en/category/artificial-intelligence/": "https://www.serp-secrets.com/tags/#artificial-intelligence",
     "/en/category/seo-news/": "https://www.serp-secrets.com/tags/#seo-news",
