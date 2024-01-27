@@ -13,9 +13,8 @@ export default function middleware(request) {
     "/en/category/seo-news/": "https://www.serp-secrets.com/tags/#seo-news",
     "/en/category/seo-strategies/": "https://www.serp-secrets.com/tags/#seo-strategies",
     "/en/blog/ai-and-ml-what-are-the-differences/": "https://www.serp-secrets.com/ai-and-ml-what-are-the-differences/",
-    "/en/blog/how-to-use-ai-in-seo-forecasting/": "https://www.serp-secrets.com/how-to-use-ai-in-seo-forecasting/",
-    "/en/blog/generative-ai-and-predictive-ai-what-they-are/": "https://www.serp-secrets.com/generative-ai-and-predictive-ai/",
-    // altri reindirizzamenti 301 come da immagine
+    "/en/blog/how-to-use-ai-in-seo-forecasting/": "https://www.serp-secrets.com/posts/how-to-use-ai-in-seo-forecasting/",
+    "/en/blog/generative-ai-and-predictive-ai-what-they-are/": "https://www.serp-secrets.com/posts/generative-ai-and-predictive-ai/"
   };
 
   // Elenco degli URL che restituiranno un 410 Gone
