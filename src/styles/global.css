@@ -30,6 +30,18 @@
     --font-geist-sans: 'GeistSans', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Ubuntu, Arial, sans-serif;
     --font-geist-mono: 'GeistMono', SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
+
+  p {
+    color: #71717a;
+  }
+
+  .text-black {
+    color: #1a1a25 !important;
+  }
+
+  .bg-white {
+    background-color: #F8F8F8 !important;
+  }
   
   body {
     font-family: var(--font-geist-sans);
