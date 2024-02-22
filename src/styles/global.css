@@ -50,7 +50,7 @@
     padding-bottom: 0.25rem !important;
     transition: border .35s cubic-bezier(.165,.84,.44,1) !important;
     display: inline !important;
-    color: var(--black) !important;
+    color: #1A1A25 !important;
     text-decoration: none !important;
   }
   
