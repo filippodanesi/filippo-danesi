@@ -67,7 +67,7 @@
 
   button.cky-btn.cky-btn-preferences,
   button.cky-btn.cky-btn-customize {
-    color: rgba(26, 26, 37, .65);
+    color: rgba(26, 26, 37, .65) !important;
     border: 1px solid #DCDFE3 !important;
     background-color: transparent;
   }
