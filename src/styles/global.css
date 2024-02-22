@@ -87,6 +87,7 @@
   button.cky-btn.cky-btn-customize,
   a.cky-policy,
   button.cky-btn.cky-btn-preferences {
+    line-height: 1.5em !important;
     font-size: 12px !important;
   }
   
