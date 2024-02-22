@@ -95,6 +95,10 @@
     font-size: 14px !important;
   }
 
+  div.cky-btn-revisit-wrapper.cky-revisit-bottom-left {
+    background-color: #1a1a25 !important;
+  }
+
   .cky-consent-container .cky-consent-bar {
 	box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0px 1px 1px rgba(0,0,0,.02),0px 4px 8px -4px rgba(0,0,0,.04),0px 16px 24px -8px rgba(0,0,0,.06) !important;
     border-radius: 12px;
