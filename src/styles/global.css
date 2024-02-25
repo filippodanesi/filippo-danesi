@@ -11,6 +11,14 @@
 }
 
 @font-face {
+  font-family: 'Inter';
+  src: url('/fonts/Inter-Medium.woff2') format('woff2'),
+       url('/fonts/Inter-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Merriweather';
   src: url('/fonts/Merriweather-Regular.woff2') format('woff2'),
        url('/fonts/Merriweather-Regular.woff') format('woff');
@@ -81,7 +89,7 @@
   
   p.cky-title {
     font-size: 14px !important;
-    font-size: 500 !important;
+    font-weight: 500 !important;
   }
 
   div.cky-btn-revisit-wrapper.cky-revisit-bottom-left {
