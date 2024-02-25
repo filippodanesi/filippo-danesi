@@ -15,10 +15,6 @@ export default defineConfig({
           allow: '/',
         },
         {
-          userAgent: 'GPTBot',
-          disallow: '/',
-        },
-        {
           userAgent: 'CCBot',
           disallow: '/',
         },
