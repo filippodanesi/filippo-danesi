@@ -108,17 +108,3 @@
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
   }
-
-  footer {
-    background-color: #1b1d20;
-    color: white;
-    padding: 20px 0;
-  }
-  footer a {
-    color: #F8F8F8;
-    text-decoration: none;
-    margin-right: 15px;
-  }
-  footer a:hover {
-    text-decoration: underline;
-  }
