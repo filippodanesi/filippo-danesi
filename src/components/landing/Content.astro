@@ -10,7 +10,7 @@ import { contact } from "../../data/contact.json";
 
         <!-- Sezione Work Experience -->
         <div class="text-sm font-light">
-          <p class="text-black dark:text-white">Work experience</p>
+          <h3 class="text-black dark:text-white">Work experience</h3>
           <div class="grid gap-6 mt-3">
             {
               details.filter(template => template.type === 'work').map((template) => (
@@ -34,7 +34,7 @@ import { contact } from "../../data/contact.json";
 
         <!-- Sezione Education -->
         <div class="text-sm font-light">
-          <p class="text-black dark:text-white">Education</p>
+          <h3 class="text-black dark:text-white">Education</h3>
           <div class="grid gap-6 mt-3">
             {
               details.filter(template => template.type === 'education').map((template) => (
@@ -58,7 +58,7 @@ import { contact } from "../../data/contact.json";
 
         <!-- Sezione Contact -->
         <div class="text-sm font-light">
-          <p class="text-black dark:text-white">Contact</p>
+          <h2 class="text-black dark:text-white">Contact</h2>
           <div class="grid gap-6 mt-3">
             {
               contact.map((template) => (
