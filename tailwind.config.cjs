@@ -88,20 +88,9 @@ module.exports = {
       colors: {
         black: "#222222",
       },
-      // fontFamily: {
-      //   sans: [
-      //     '-apple-system', 
-      //     'system-ui', 
-      //     'BlinkMacSystemFont', 
-      //     'Segoe UI', 
-      //     'Roboto', 
-      //     'Helvetica Neue', 
-      //     'Ubuntu', 
-      //     'Arial', 
-      //     'sans-serif', 
-      //     ...defaultTheme.fontFamily.sans
-      //   ],
-      // },
+      fontFamily: {
+        display: ["Gilda Display", ...defaultTheme.fontFamily.sans],
+      },
     },
   },
   plugins: [
